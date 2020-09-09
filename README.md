@@ -24,7 +24,7 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 
 ## GEOTECHNICS
 
--  
+- [Video Embankments, Dams, and Slopes](https://www.youtube.com/watch?v=TQSdgeApTp4&t=587s&ab_channel=Geo-InstituteofASCE) _(label: good first issue)_ <br> 2019 Geo-Institute web conferences - Embankments, Dams, and Slopes.
 
 ## STRUCTURES
 
