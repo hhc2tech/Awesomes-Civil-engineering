@@ -19,7 +19,7 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 - [River Bank Protection](https://www.engr.colostate.edu/~pierre/ce_old/classes/ce717/PPT%202013/River%20Bank%20Protection.pdf) _(label: good first issue)_ <br> Amrapalli Garanaik Joel Sholtes- CIVE 717 – April 11, 2013.
 - [stability design of coastal structures](https://www.leovanrijn-sediment.com/papers/Stabilitystructures2015.pdf) _(label: Jump-In)_ <br> stability design of coastal structures (seadikes, revetments, breakwaters and groins)
 
-## HYDRAULIC CONSTRUCTION
+## HYDRAULIC MODELLING
 
 - ["3 weeks" series OpenFOAM](https://wiki.openfoam.com/index.php?title=%223_weeks%22_series&fbclid=IwAR3vEpRctLZljxO5pIhx3lbIADmqk81J9i3z_7O6aI-ileyT6277DH9D2u4#p-search) _(label: Jump-In)_ <br>In this series you will have the possibility to get a more detailed understanding of the basics of OpenFOAM.
 
