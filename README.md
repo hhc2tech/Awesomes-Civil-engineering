@@ -22,6 +22,8 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 ## HYDRAULIC MODELLING
 
 - ["3 weeks" series OpenFOAM](https://wiki.openfoam.com/index.php?title=%223_weeks%22_series&fbclid=IwAR3vEpRctLZljxO5pIhx3lbIADmqk81J9i3z_7O6aI-ileyT6277DH9D2u4#p-search) _(label: Jump-In)_ <br>In this series you will have the possibility to get a more detailed understanding of the basics of OpenFOAM.
+- [Webinar Current trend in CFD](https://www.youtube.com/watch?v=GlsODjgkP2A&feature=youtu.be&fbclid=IwAR2U-xmTIgG4gt50hTEqNMNNMuiivL9LKxDQwaHTgFEb9IfVucojsHA-rXY) _(label: Jump-In)_ <br> [Webinar] Current trend in CFD and Exascale computing
+.
 
 ## GEOTECHNICS
 
