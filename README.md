@@ -10,6 +10,7 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 - [Hydraulic Modelling](#hydraulic-modelling)
 - [Geotechnics](#geotechnics)
 - [Structures](#structures)
+- [Construction Management](#Construction_Management)
 - [US Army Corps of Engineers](#us-army-corps-of-engineers)
  
 
@@ -29,12 +30,17 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 
 - [Video Embankments, Dams, and Slopes](https://www.youtube.com/watch?v=TQSdgeApTp4&t=587s&ab_channel=Geo-InstituteofASCE) _(label: good first issue)_ <br> 2019 Geo-Institute web conferences - Embankments, Dams, and Slopes.
 - [EVALUATING THE POTENTIAL FOR LIQUEFACTION OR CYCLIC FAILURE OF SILTS AND CLAYS](https://faculty.engineering.ucdavis.edu/boulanger/wp-content/uploads/sites/71/2014/09/Boulanger_Idriss_CGM04-01_2004.pdf) _(label: good first issue)_ <br> Report No. UCD/CGM-04/01 Center for Geotechnical Modeling Department of Civil & Environmental Engineering University of California Davis, California 2004.
+- [Bartlett Documents](https://my.civil.utah.edu/~bartlett/) _(label: good first issue)_ <br> THE UNIVERSITY OF UTAH - CIVIL & ENVIRONMENTAL ENGINEERING.
 - [ISSMGE Bulletin - Volume 14, Issue 4 - August 2020](https://www.issmge.org/filemanager/article/795/ISSMGE_BULLETIN_2020_AUG_FINAL.pdf) _(label: good first issue)_ <br> International Society for Soil Mechanics and Geotechnical Engineering.
   Wsdot Geotechnics
 - [Wsdot- Geotechnical Design Manual](https://wsdot.wa.gov/Publications/Manuals/M46-03.htm) _(label: good first issue)_ <br> The Geotechnical Design Manual focuses on geotechnical design, construction, and maintenance to ensure that the soil or rock beneath the ground surface can support the loads and conditions placed on it by transportation facilities.
 ## STRUCTURES
 
 - [Elastic Foundation using Abaqus](https://vimeo.com/165317041) _(label: good first issue)_ <br> Modeling And Analysis of Isolated Footing with Elastic Foundation using Abaqus
+
+## CONSTRUCTION MANAGEMENT
+
+- [Hcmut](http://www4.hcmut.edu.vn/~ndlong) _(label: good first issue)_ <br> Thi công và quản lý xây dựng.
 
 ## US ARMY CORPS OF ENGINEERS
 
