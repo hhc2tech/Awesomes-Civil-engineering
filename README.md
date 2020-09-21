@@ -32,7 +32,18 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 - [EVALUATING THE POTENTIAL FOR LIQUEFACTION OR CYCLIC FAILURE OF SILTS AND CLAYS](https://faculty.engineering.ucdavis.edu/boulanger/wp-content/uploads/sites/71/2014/09/Boulanger_Idriss_CGM04-01_2004.pdf) _(label: good first issue)_ <br> Report No. UCD/CGM-04/01 Center for Geotechnical Modeling Department of Civil & Environmental Engineering University of California Davis, California 2004.
 - [Bartlett Documents](https://my.civil.utah.edu/~bartlett/) _(label: good first issue)_ <br> THE UNIVERSITY OF UTAH - CIVIL & ENVIRONMENTAL ENGINEERING.
 - [ISSMGE Bulletin - Volume 14, Issue 4 - August 2020](https://www.issmge.org/filemanager/article/795/ISSMGE_BULLETIN_2020_AUG_FINAL.pdf) _(label: good first issue)_ <br> International Society for Soil Mechanics and Geotechnical Engineering.
-  Wsdot Geotechnics
+/ Soil Investigation
+- [Robertson Publications](https://www.cpt-robertson.com/publications/) _(label: good first issue)_ <br> Robertson Publications.
+- [Interpretation of Cone penetration Tests](https://www.cpt-robertson.com/PublicationsPDF/Interpretation%20of%20CPT-Sand%26Clay-Rob%26Camp-CGJ-V20N4-8.pdf) _(label: good first issue)_ <br> J. Interpretation of Cone penetration Tests Part I (Sand) and Part II (Clay).
+- [CPT-based Soil Behaviour Type (SBT) Classification System](https://tspace.library.utoronto.ca/bitstream/1807/73811/1/cgj-2016-0044.pdf) _(label: good first issue)_ <br> J. Robertson- Journal: Canadian Geotechnical Journal.
+
+- [Soil classification using the cone penetration test](https://www.nrcresearchpress.com/doi/abs/10.1139/t90-014#.X2jloD_ivb1) _(label: good first issue)_ <br> J. Robertson- Journal: Canadian Geotechnical Journal..
+- [CPT-based Soil Behaviour Type (SBT) Classification System](https://tspace.library.utoronto.ca/bitstream/1807/73811/1/cgj-2016-0044.pdf) _(label: good first issue)_ <br> J. Robertson- Journal: Canadian Geotechnical Journal.
+
+- [Fundamentals of CONE PENETROMETER TEST (CPT) SOUNDINGS](https://web.mst.edu/~rogersda/umrcourses/ge441/CPT-Soundings.pdf) _(label: good first issue)_ <br> J. David Rogers, Ph.D., P.E., R.G.
+
+
+/  Wsdot Geotechnics
 - [Wsdot- Geotechnical Design Manual](https://wsdot.wa.gov/Publications/Manuals/M46-03.htm) _(label: good first issue)_ <br> The Geotechnical Design Manual focuses on geotechnical design, construction, and maintenance to ensure that the soil or rock beneath the ground surface can support the loads and conditions placed on it by transportation facilities.
 ## STRUCTURES
 
