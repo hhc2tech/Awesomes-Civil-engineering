@@ -16,6 +16,7 @@ Inspired by [Hhc2tech](https://hhc2tech.blogspot.com/) blog post.
 
 ## COASTAL ENGINEERING
 
+- [Oumeraci papers](https://www.fzk.uni-hannover.de/oumeraci.html?&no_cache=1&tx_tkinstpersonen_pi1%5BshowUid%5D=85&tx_tkinstpersonen_pi1%5Bpublikationen%5D=1) _(label: first-timers-only)_ <br> Prof. Dr.-Ing. Hocine Oumeraci.
 - [Sloped Revetments](https://legacy.essie.ufl.edu/~slinn/Structures/) _(label: first-timers-only)_ <br> Civil and Coastal Engineering Home Page.
 - [River Bank Protection](https://www.engr.colostate.edu/~pierre/ce_old/classes/ce717/PPT%202013/River%20Bank%20Protection.pdf) _(label: good first issue)_ <br> Amrapalli Garanaik Joel Sholtes- CIVE 717 – April 11, 2013.
 - [stability design of coastal structures](https://www.leovanrijn-sediment.com/papers/Stabilitystructures2015.pdf) _(label: Jump-In)_ <br> stability design of coastal structures (seadikes, revetments, breakwaters and groins)
